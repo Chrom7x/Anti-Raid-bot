@@ -1,0 +1,19 @@
+{
+  "name": "Anti-RaidsBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "raid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "js-yaml": "^4.0.0",
+    "nodemon": "^2.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
